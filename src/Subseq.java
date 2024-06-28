@@ -29,5 +29,5 @@ public class Subseq {
         
         left.addAll(right);
         return left;
-    }
+    }// this is how we can take do it using the array list.
 }
